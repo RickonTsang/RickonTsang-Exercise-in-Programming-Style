@@ -1,5 +1,5 @@
 Step 1:
-Change the folder to week1
+Change the folder to week2
 ```bash
 cd week2
 ```
